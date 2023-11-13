@@ -1,4 +1,4 @@
-# Data-Migration-Using-Azure
+# On-premise Data Migration Project into Azure
 
 * The main objective of the project is to move all the tables from the on-premise SQL server to Azure.
 *	Created Azure Data factory pipeline to migrate the data from on-premise to Azure by using  Azure self-hosted integration runtime.
@@ -10,3 +10,6 @@
 *	Created another pipeline in the Synapse which uses the get metadata, for each and stored procedure activity to dynamically create the view for all the files present in the ADLS.
 *	Once we created the view we analyzed the data to get insights from the data using a serverless SQL pool.
 *	To build the interactive visualization we use PowerBI. We connected the PowerBI with the Synapse analytics using the Synapse SQL server endpoint and then visualized the data in PowerBI.
+
+  ![image](https://github.com/akshay-venur/Data-Migration-Using-Azure/assets/43615481/96872148-9c1b-4c50-8d58-8970e9a7ada7)
+
