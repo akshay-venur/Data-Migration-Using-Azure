@@ -1,4 +1,4 @@
-# On-premise Data Migration Project into Azure
+# On-premise Data Migration Project using Azure
 
 #### Tools Used: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure Data Lake storage, Azure Key Vault, Azure Active Directory, SQL Server, PowerBI
 
