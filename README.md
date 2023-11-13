@@ -1,6 +1,6 @@
 # On-premise Data Migration Project into Azure
 
-## Tools Used: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure Data Lake storage, Azure Key Vault, Azure Active Directory, SQL Server, PowerBI
+#### Tools Used: Azure Data Factory, Azure Synapse Analytics, Azure Databricks, Azure Data Lake storage, Azure Key Vault, Azure Active Directory, SQL Server, PowerBI
 
 * The main objective of the project is to move all the tables from the on-premise SQL server to Azure.
 *	Created Azure Data factory pipeline to migrate the data from on-premise to Azure by using  Azure self-hosted integration runtime.
